@@ -1,0 +1,29 @@
+﻿[Fontworks]
+https://fontworks.co.jp/support/download/pdf
+
+[DynaFont（华康）]
+日文官网：https://www.dynacw.co.jp/support/support_download.aspx
+简中(大陆)官网：https://www.dynacw.com.cn/support/support_download.aspx
+繁中(香港)官网：https://www.dynacw.com.hk/zh/support/support_download.aspx
+繁中(台湾)官网：https://www.dynacw.com.tw/support/support_download.aspx
+
+[Morisawa（森泽）]
+http://www.morisawa.co.jp/support/download/fonts#common_catalog
+
+[Founder Type（方正）]
+http://cdn1.foundertype.com/Public/Uploads/FZFontSample.zip
+
+[Hanyi Fonts（汉仪）]
+http://www.cnprint.org/bbs/thread/165/273870/
+
+[TensenType（腾祥）]
+http://www.cnprint.org/bbs/thread/165/245552/
+
+[Arphic（文鼎）]
+http://www.cnprint.org/bbs/thread/165/244068/
+
+[Monotype（蒙纳）]
+http://www.monotype.com.hk/modules.php?name=Content&pa=showpage&pid=28
+
+[LETS字体协会]
+https://lets-site.jp/download/
