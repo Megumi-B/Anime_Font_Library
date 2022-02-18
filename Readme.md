@@ -6,14 +6,14 @@
 此repo亦隨時可能被刪除，有需要者可選擇Fork一份作私人用途。<br>
 <blockquote>
 下載所有字體/超级字体整合包 XZ：請在上方`Code`的下拉選單選擇`Download ZIP`即可。<br>
-下載通用型字幕字体整合包V2.0：<a href="https://github.com/Megumi-B/Anime_ASS_Fonts/releases/tag/VCB_UniversalFontPackv2">Release</a><br>
+下載通用型字幕字体整合包V2.0：<a href="https://github.com/Megumi-B/Anime_Font_Library/releases/tag/VCB_UniversalFontPackv2">Release</a><br>
 </blockquote>
 
 ### 字體目錄
-- <a href="https://github.com/Megumi-B/Anime_ASS_Fonts/blob/main/FontPackXZ_List.txt">超级字体整合包 XZ</a>
-- <a href="https://github.com/Megumi-B/Anime_ASS_Fonts/blob/main/UniversalFontPackv2_List.txt">通用型字幕字体整合包V2.0</a>
+- <a href="https://github.com/Megumi-B/Anime_Font_Library/blob/main/FontPackXZ_List.txt">超级字体整合包 XZ</a>
+- <a href="https://github.com/Megumi-B/Anime_Font_Library/blob/main/UniversalFontPackv2_List.txt">通用型字幕字体整合包V2.0</a>
 
-<h3><a href="https://github.com/Megumi-B/ACG_Fonts/find/main">搜尋字體</a></h3>
+<h3><a href="https://github.com/Megumi-B/Anime_Font_Library/find/main">搜尋字體</a></h3>
 
 ### 其他資訊
 超级字体整合包 X 虽然能满足绝大多数字幕的播放需求，但是体积过于庞大，不适合全部安装，实际上 90% 的字幕只用到了其中 10% 的字体。因此，此次更新我们添加了精简包。
